@@ -20,7 +20,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="178dp"
+        android:layout_height="270dp"
         android:adjustViewBounds="true"
         android:src="@drawable/calculadora" />
     <TextView
@@ -54,7 +54,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <Button
@@ -62,14 +62,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Sumar"
-            android:layout_margin="4dp"/>/>
+            android:layout_margin="4dp"/>
 
         <Button
             android:id="@+id/btnRestar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Restar"
-            android:layout_margin="4dp"/> />
+            android:layout_margin="4dp"/>
 
         <Button
             android:id="@+id/btnMultiplicar"
@@ -83,14 +83,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Dividir"
-            android:layout_margin="4dp"/>/>
+            android:layout_margin="4dp"/>
 
     </LinearLayout>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/resultado"
-        android:textSize="16dp"
+        android:textSize="20dp"
         />
 
 </LinearLayout>
