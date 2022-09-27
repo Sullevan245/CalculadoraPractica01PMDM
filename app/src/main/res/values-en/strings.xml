@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="bienvenida">Welcome to my Calculator</string>
+    <string name="primerNumero">Enter the first number: </string>
+    <string name="segundoNumero">Enter the second number: </string>
+    <string name="resultado">The result of the operation is: %d</string>
+</resources>
