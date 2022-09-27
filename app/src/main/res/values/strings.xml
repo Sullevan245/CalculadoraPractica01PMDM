@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="bienvenida">Bienvenidos a mi App Calculadora</string>
+    <string name="primerNumero">Introduzca el primer número: </string>
+    <string name="segundoNumero">Introduzca el segundo número: </string>
+    <string name="resultado">El resultado de la operacion es: </string>
+
+</resources>
